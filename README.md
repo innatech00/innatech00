@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @innatech00
-- 👀 I’m interested in Data Science, ML,Ai & product management
-- 🌱 I’m currently learning Math for Data science in MFTI and Computer Science in TGU
+- 👀 I’m interested in Data analytics and ML
+- 🌱 I’m doing my Master's Computer Science in TGU
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: telegram @innatech
 
